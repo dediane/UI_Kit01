@@ -1,0 +1,44 @@
+.simple-list li {
+  padding: 16px;
+  margin: 16px;
+  font-size: 16px;
+  font-family: "Roboto";
+  list-style-type: none;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #91e4fd;
+}
+
+.dashed-list li {
+  padding: 16px;
+  margin: 16px;
+  font-size: 16px;
+  font-family: "Roboto";
+  list-style-type: none;
+  border-style: dashed;
+  border-width: 1px;
+  border-color: #bca1ff;
+}
+
+.list-sm {
+  max-width: 500px;
+}
+
+.dotted-list {
+  padding-bottom: 20px;
+  padding-right: 40px;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #ffa1c8;
+}
+
+.dotted-list li {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  font-family: "Roboto";
+  list-style-type: none;
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
+  border-bottom-color: #ffa1c8;
+}

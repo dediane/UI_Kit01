@@ -1,0 +1,64 @@
+.card {
+  max-width: 300px;
+  border-radius: 6px;
+  border-color: #DDDDDD;
+  border-width: 1px;
+  border-style: solid;
+  padding-bottom: 30px;
+}
+
+.card-big {
+  max-width: 800px;
+  border-radius: 10px;
+  border-color: #DDDDDD;
+  border-width: 1px;
+  border-style: solid;
+  padding-bottom: 30px;
+  margin-bottom: 40px;
+}
+
+.card-img-top-big {
+  width: 100%;
+}
+
+.card-img-top {
+  max-width: 300px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  padding: 0px 20px;
+  margin-bottom: 30px;
+}
+
+.card-header-secondary {
+  background-color: #bca1ff;
+  opacity: 80%;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.card-header-primary {
+  background-color: #ffa1c8;
+  opacity: 80%;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.card-header-info {
+  background-color: #91e4fd;
+  opacity: 80%;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}

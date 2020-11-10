@@ -1,0 +1,91 @@
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary {
+  background-color: #ffa1c8;
+}
+
+.text-primary {
+  color: #ffa1c8;
+}
+
+.secondary {
+  background-color: #bca1ff;
+}
+
+.text-secondary {
+  color: #bca1ff;
+}
+
+.dark {
+  background-color: #988f94;
+}
+
+.text-dark {
+  color: #988f94;
+}
+
+.medium-light {
+  background-color: #c9c0c5;
+}
+
+.text-medium-light {
+  color: #c9c0c5;
+}
+
+.light {
+  background-color: #e5dee1;
+}
+
+.text-light {
+  color: #e5dee1;
+}
+
+.success {
+  background-color: #9fecc3;
+}
+
+.text-success {
+  color: #9fecc3;
+}
+
+.warning {
+  background-color: #F6D879;
+}
+
+.text-warning {
+  color: #F6D879;
+}
+
+.danger {
+  background-color: #ef476f;
+}
+
+.text-danger {
+  color: #ef476f;
+}
+
+.info {
+  background-color: #91e4fd;
+}
+
+.text-info {
+  color: #91e4fd;
+}
+
+.basic1 {
+  background-color: #2b2926;
+}
+
+.text-basic1 {
+  color: #2b2926;
+}
+
+.basic2 {
+  background-color: #FFFFFF;
+}
+
+.text-basic2 {
+  color: #FFFFFF;
+}

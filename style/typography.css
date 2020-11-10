@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Playfair";
+  src: url('../font/playfairdisplay/PlayfairDisplay[wght].ttf');
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url('../font/Roboto/Roboto-Regular.ttf');
+}
+
+a {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Playfair";
+  font-size: 46px;
+}
+
+h2 {
+  font-family: "Playfair";
+  font-size: 38px;
+}
+
+h3 {
+  font-family: "Playfair";
+  font-size: 28px;
+}
+
+h4 {
+  font-family: "Playfair";
+  font-size: 22px;
+}
+
+h5 {
+  font-family: "Playfair";
+  font-size: 18px;
+}
+
+p {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.lead {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+blockquote {
+  font-family: "Roboto";
+  font-style: italic;
+}
